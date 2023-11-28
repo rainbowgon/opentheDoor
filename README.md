@@ -61,6 +61,27 @@
   </tr>
 </table>
 
+### 인기 테마
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme_detail.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>인기 테마 둘러보기</span>
+    </td>
+    <td align="center">
+      <span>인기 테마 상세 보기</span>
+    </td>
+  </tr>
+</table>
+
 ### 검색 및 지도
 
 <table>
@@ -90,27 +111,6 @@
     </td>
      <td align="center">
       <span>무한 스크롤</span>
-    </td>
-  </tr>
-</table>
-
-### 인기 테마
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme.gif?raw=true" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme_detail.gif?raw=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span>인기 테마 둘러보기</span>
-    </td>
-    <td align="center">
-      <span>인기 테마 상세 보기</span>
     </td>
   </tr>
 </table>
