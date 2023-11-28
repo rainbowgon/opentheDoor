@@ -1,15 +1,14 @@
 <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/banner.jpg?raw=true">
 
-<div align="center">
-    <br><br>
-    📌 <a href="https://github.com/rainbowgon/opentheDoor-frontend">[ 프론트엔드 바로가기 ]</a>
-    <br>
-    📌 <a href="https://github.com/rainbowgon/opentheDoor-backend">[ 백엔드 바로가기 ]</a>
-    <br>
-    📌 <a href="https://github.com/rainbowgon/opentheDoor-crawling">[ 크롤링 서버 바로가기 ]</a>
-    <br>
-    📌 <a href="https://github.com/rainbowgon/opentheDoor-reserving">[ 예약 서버 바로가기 ]</a>
-</div>
+## 🍇 프로젝트 바로가기
+
+📌 <a href="https://github.com/rainbowgon/opentheDoor-frontend">[ 프론트엔드 바로가기 ]</a>
+<br>
+📌 <a href="https://github.com/rainbowgon/opentheDoor-backend">[ 백엔드 바로가기 ]</a>
+<br>
+📌 <a href="https://github.com/rainbowgon/opentheDoor-crawling">[ 크롤링 서버 바로가기 ]</a>
+<br>
+📌 <a href="https://github.com/rainbowgon/opentheDoor-reserving">[ 예약 서버 바로가기 ]</a>
 
 ## 🍇 프로젝트 소개
 
@@ -486,24 +485,19 @@
 
 <table>
   <tr>
-  <td align="center">
-      <a href="https://github.com/ng-lee">
-        <img src="https://github.com/ng-lee.png" width="400" alt="이남곤" />
+   <td align="center">
+      <a href="https://github.com/Gobro-s">
+        <img src="https://github.com/Gobro-s.png" width="400" alt="고세훈" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/nutbrown">
-        <img src="https://github.com/nutbrown.png" width="400" alt="전혜련" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chogoal">
-        <img src="https://github.com/chogoal.png" width="400" alt="최해미" />
-      </a>
-    </td>
-    <td align="center">
+     <td align="center">
       <a href="https://github.com/Byungul">
         <img src="https://github.com/Byungul.png" width="400" alt="변정원" />
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/chogoal">
+        <img src="https://github.com/chogoal.png" width="400" alt="최해미" />
       </a>
     </td>
     <td align="center">
@@ -512,25 +506,20 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gobro-s">
-        <img src="https://github.com/Gobro-s.png" width="400" alt="고세훈" />
+      <a href="https://github.com/nutbrown">
+        <img src="https://github.com/nutbrown.png" width="400" alt="전혜련" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ng-lee">
+        <img src="https://github.com/ng-lee.png" width="400" alt="이남곤" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ng-lee">
-        <b>이남곤</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nutbrown">
-        <b>전혜련</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chogoal">
-        <b>최해미</b>
+      <a href="https://github.com/Gobro-s">
+        <b>고세훈</b>
       </a>
     </td>
     <td align="center">
@@ -539,33 +528,43 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/chogoal">
+        <b>최해미</b>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/usedupnote">
         <b>이정명</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gobro-s">
-        <b>고세훈</b>
+      <a href="https://github.com/nutbrown">
+        <b>전혜련</b>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/ng-lee">
+        <b>이남곤</b>
       </a>
     </td>
   </tr>
     <td align="center">
-      <span>Backend(예약팀)<br>Infra</span>
+      <span>Frontend</span>
     </td>
     <td align="center">
-      <span>Backend(알림팀)</span>
+      <span>Backend<br>검색팀</span>
     </td>
     <td align="center">
-      <span>Backend(회원팀)</span>
-    </td>
-    <td align="center">
-      <span>Backend(검색팀)</span>
+      <span>Backend<br>회원팀</span>
     </td>
     <td align="center">
       <span>Frontend</span>
     </td>
     <td align="center">
-      <span>Frontend</span>
+      <span>Backend<br>알림팀</span>
+    </td>
+    <td align="center">
+      <span>Backend<br>예약팀<br>INFRA</span>
     </td>
   </tr>
 </table>
