@@ -1,10 +1,17 @@
 <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/banner.jpg?raw=true">
 
+<div align=center>
+    <a href="https://github.com/rainbowgon/opentheDoor-frontend">[ 프론트엔드 바로가기 ]</a>
+    <a href="https://github.com/rainbowgon/opentheDoor-backend">[ 백엔드 바로가기 ]</a>
+    <a href="https://github.com/rainbowgon/opentheDoor-crawling">[ 크롤링 서버 바로가기 ]</a>
+    <a href="https://github.com/rainbowgon/opentheDoor-reserving">[ 예약 서버 바로가기 ]</a>
+</div>
+
 ## 🍇 프로젝트 소개
 
 **방탈출 카페 정보 제공 및 예약 플랫폼, 오픈더도어**
 
-방탈출 예약을 해본 적이 있으신가요? 방탈출 시장은 점점 커지고 있지만 현재 방탈출 플랫폼은 필요한 기능을 제공하지 못하고 있습니다. `**오픈더도어**`는 사용자들에게 편리한 검색, 예약 대기 및 빈자리 알림, 플랫폼 내에서의 예약을 제공합니다. 방탈출 플랫폼을 통해 방탈출 업체와 사용자들 모두에게 도움이 되고자 합니다.
+방탈출 예약을 해본 적이 있으신가요? 방탈출 시장은 점점 커지고 있지만 현재 방탈출 플랫폼은 필요한 기능을 제공하지 못하고 있습니다. `오픈더도어`는 사용자들에게 편리한 검색, 예약 대기 및 빈자리 알림, 플랫폼 내에서의 예약을 제공합니다. 방탈출 플랫폼을 통해 방탈출 업체와 사용자들 모두에게 도움이 되고자 합니다.
 
 **기획 배경**
 
@@ -23,6 +30,150 @@
 - 배포 기간 : 2023.11.06 ~ 2023.11.27
 
 ## 🍇 프로젝트 주요 기능
+
+### 메인 화면
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/main.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/main_search.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/main_kakao_login.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>메인 화면</span>
+    </td>
+    <td align="center">
+      <span>메인 화면 검색</span>
+    </td>
+    <td align="center">
+      <span>카카오 로그인</span>
+    </td>
+  </tr>
+</table>
+
+### 검색 및 지도
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_filtering.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_map_nearby.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_map_detail.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_infinity_scroll.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>검색 필터링</span>
+    </td>
+    <td align="center">
+      <span>지도에서 현재 위치 주변 검색</span>
+    </td>
+    <td align="center">
+      <span>지도에서 디테일 확인</span>
+    </td>
+     <td align="center">
+      <span>무한 스크롤</span>
+    </td>
+  </tr>
+</table>
+
+### 인기 테마
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme_detail.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>인기 테마 둘러보기</span>
+    </td>
+    <td align="center">
+      <span>인기 테마 상세 보기</span>
+    </td>
+  </tr>
+</table>
+
+### 테마 상세
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_detail.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_time.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>테마 상세 보기</span>
+    </td>
+    <td align="center">
+      <span>테마 시간 정보 확인</span>
+    </td>
+  </tr>
+</table>
+
+### 리뷰 기능
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/review_member.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/review_not_member.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>회원 리뷰 보기</span>
+    </td>
+    <td align="center">
+      <span>비회원 리뷰 보기</span>
+    </td>
+  </tr>
+</table>
+
+### 예약
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/reservation_fcm.gif?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/reservation_alarm_list.gif?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span>예약하기</span>
+    </td>
+    <td align="center">
+      <span>알림 리스트</span>
+    </td>
+  </tr>
+</table>
 
 ## 🍇 폴더 트리
 
@@ -258,7 +409,7 @@
 
 ## 🍇 API 명세서
 
-<img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/api.png?raw=true">
+<img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/api.gif?raw=true">
 
 ## 🍇 기술 스택
 
@@ -281,6 +432,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/Hibernate-59666C?&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white">
@@ -394,16 +546,16 @@
     </td>
   </tr>
     <td align="center">
-      <span>Backend<br>Infra</span>
+      <span>Backend(예약팀)<br>Infra</span>
     </td>
     <td align="center">
-      <span>Backend</span>
+      <span>Backend(알림팀)</span>
     </td>
     <td align="center">
-      <span>Backend</span>
+      <span>Backend(회원팀)</span>
     </td>
     <td align="center">
-      <span>Backend</span>
+      <span>Backend(검색팀)</span>
     </td>
     <td align="center">
       <span>Frontend</span>
