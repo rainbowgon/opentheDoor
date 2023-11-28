@@ -1,10 +1,14 @@
 <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/banner.jpg?raw=true">
 
-<div align=center>
-    <a href="https://github.com/rainbowgon/opentheDoor-frontend">[ 프론트엔드 바로가기 ]</a>
-    <a href="https://github.com/rainbowgon/opentheDoor-backend">[ 백엔드 바로가기 ]</a>
-    <a href="https://github.com/rainbowgon/opentheDoor-crawling">[ 크롤링 서버 바로가기 ]</a>
-    <a href="https://github.com/rainbowgon/opentheDoor-reserving">[ 예약 서버 바로가기 ]</a>
+<div align="center">
+    <br><br>
+    📌 <a href="https://github.com/rainbowgon/opentheDoor-frontend">[ 프론트엔드 바로가기 ]</a>
+    <br>
+    📌 <a href="https://github.com/rainbowgon/opentheDoor-backend">[ 백엔드 바로가기 ]</a>
+    <br>
+    📌 <a href="https://github.com/rainbowgon/opentheDoor-crawling">[ 크롤링 서버 바로가기 ]</a>
+    <br>
+    📌 <a href="https://github.com/rainbowgon/opentheDoor-reserving">[ 예약 서버 바로가기 ]</a>
 </div>
 
 ## 🍇 프로젝트 소개
@@ -401,7 +405,7 @@
 
 ## 🍇 시스템 아키텍처
 
-<img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/infra.png?raw=true">
+<img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/infra.jpg?raw=true">
 
 ## 🍇 ERD
 
