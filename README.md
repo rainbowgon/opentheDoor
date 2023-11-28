@@ -113,7 +113,6 @@
     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_filtering.gif?raw=true" />
     </td>
-   
   </tr>
   <tr>
     <td align="center">
