@@ -446,6 +446,7 @@
     <img src="https://img.shields.io/badge/ESLint-4B32C3?&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?&logo=prettier&logoColor=white">
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?&logo=styledcomponents&logoColor=white">
+    <img src="https://img.shields.io/badge/googlemaps-4285F4?&logo=googlemaps&logoColor=white">
 </p>
 
 <h3 align="center">Backend</h3>
