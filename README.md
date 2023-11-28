@@ -576,7 +576,7 @@
       <span>Backend<br>회원팀</span>
     </td>
     <td align="center">
-      <span>Frontend</span>
+      <span>Frontend<br>Design</span>
     </td>
     <td align="center">
       <span>Backend<br>알림팀</span>
