@@ -102,30 +102,31 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_filtering.gif?raw=true" />
-    </td>
-    <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_map_nearby.gif?raw=true" />
     </td>
     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_map_detail.gif?raw=true" />
     </td>
-    <td align="center">
+     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_infinity_scroll.gif?raw=true" />
     </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/search_filtering.gif?raw=true" />
+    </td>
+   
   </tr>
   <tr>
-    <td align="center">
-      <span>검색 필터링</span>
-    </td>
     <td align="center">
       <span>지도에서 현재 위치 주변 검색</span>
     </td>
     <td align="center">
       <span>지도에서 디테일 확인</span>
     </td>
-     <td align="center">
-      <span>무한 스크롤</span>
+    <td align="center">
+      <span>리스트 보기</span>
+    </td>
+    <td align="center">
+      <span>검색 필터링</span>
     </td>
   </tr>
 </table>
