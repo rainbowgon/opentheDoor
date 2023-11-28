@@ -123,14 +123,26 @@
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_detail.gif?raw=true" />
     </td>
     <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_time.gif?raw=true" />
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_detail.png?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_map.png?raw=true" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_time.png?raw=true" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <span>테마 상세 보기</span>
     </td>
-    <td align="center">
+     <td align="center">
+      <span>테마 상세 보기</span>
+    </td>
+     <td align="center">
+      <span>테마 지도 보기</span>
+    </td>
+     <td align="center">
       <span>테마 시간 정보 확인</span>
     </td>
   </tr>
@@ -157,10 +169,13 @@
   </tr>
 </table>
 
-### 예약
+### 예약 기능
 
 <table>
   <tr>
+    <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/reservation.gif?raw=true" />
+    </td>
     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/reservation_fcm.gif?raw=true" />
     </td>
@@ -169,6 +184,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <span>예약 시간 확인하기</span>
+    </td>
     <td align="center">
       <span>예약하기</span>
     </td>
