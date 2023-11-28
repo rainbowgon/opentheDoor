@@ -69,12 +69,18 @@
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme.gif?raw=true" />
     </td>
     <td align="center">
+      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/dummy.png?raw=true" />
+    </td>
+    <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/poppular_theme_detail.gif?raw=true" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <span>인기 테마 둘러보기</span>
+    </td>
+    <td align="center">
+      <span>-</span>
     </td>
     <td align="center">
       <span>인기 테마 상세 보기</span>
@@ -115,43 +121,13 @@
   </tr>
 </table>
 
-### 테마 상세
+### 테마 상세 및 리뷰 기능
 
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_detail.gif?raw=true" />
     </td>
-    <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_detail.png?raw=true" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_map.png?raw=true" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/theme_time.png?raw=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <span>테마 상세 보기</span>
-    </td>
-     <td align="center">
-      <span>테마 상세 보기</span>
-    </td>
-     <td align="center">
-      <span>테마 지도 보기</span>
-    </td>
-     <td align="center">
-      <span>테마 시간 정보 확인</span>
-    </td>
-  </tr>
-</table>
-
-### 리뷰 기능
-
-<table>
-  <tr>
     <td align="center">
       <img src="https://github.com/rainbowgon/opentheDoor/blob/main/upload/gif/review_member.gif?raw=true" />
     </td>
@@ -160,6 +136,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <span>테마 상세 보기</span>
+    </td>
     <td align="center">
       <span>회원 리뷰 보기</span>
     </td>
