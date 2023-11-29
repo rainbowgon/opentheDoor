@@ -10,6 +10,7 @@
 <br>
 📌 <a href="https://github.com/rainbowgon/opentheDoor-reserving">예약 서버 바로가기</a>
 <br>
+
 ## 🍇 프로젝트 소개
 
 **방탈출 카페 정보 제공 및 예약 플랫폼, 오픈더도어**
@@ -480,9 +481,10 @@
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/AWS EC2-FF9900?&logo=amazon ec2&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS CodeDeploy-232F3E?&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?&logo=amazoncloudwatch&logoColor=white">
     <img src="https://img.shields.io/badge/AWS RDS-527FFF?&logo=amazonrds&logoColor=white">
     <img src="https://img.shields.io/badge/AWS S3-569A31?&logo=amazons3&logoColor=white">
