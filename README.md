@@ -467,6 +467,7 @@
     <br>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Apache Kafka-231F20?&logo=apachekafka&logoColor=white">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?&logo=rabbitmq&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/H2-FF9900?&logo=h2&logoColor=white">
